@@ -27,7 +27,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=entropy622&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=py,java&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=typescript,react,vite,unity,java&theme=light" />
 </p>
 
 
@@ -38,7 +38,7 @@
 
 
 
-<img src="https://img.shields.io/badge/QQ-2307984361-green?logo=tencentqq" />
+<img src="https://img.shields.io/badge/QQ-1450431082-green?logo=tencentqq" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=entropy622&abbreviated=true&color=yellow" />
 </p>

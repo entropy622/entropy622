@@ -10,7 +10,7 @@
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+a+tech+otaku!" />
 </p>
 
 
@@ -27,7 +27,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=entropy622&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=typescript,react,vite,unity,java&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=typescript,react,vite,unity,java,python,cpp&theme=light" />
 </p>
 
 
@@ -64,11 +64,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ### Hi there 👋,I'm 回首空城.
-
-- 🔭 I’m currently working on Java/Python.
-- 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to Java/Python.
-- ⚡ Fun fact: 我玩原神二本在读家境清寒高强度b站玩游戏也没什么朋友每天混吃等死别再和我较真了哥
 
 ![](https://github-readme-stats.vercel.app/api?username=Pale-illusions&show_icons=true&theme=transparent)
 

@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title">
-  <title id="title">回首空城 · Tech Otaku。使用语言 TypeScript、Java、Python、C++。技术栈 React、Vite、Unity。</title>
+  <title id="title">回首空城 · Tech Otaku。使用语言 TypeScript、C#、Python、C++。技术栈 React、Web、Agent、Graphics、Unity、UE。</title>
   <defs>
     <pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.6" fill="#1a1a1a"/></pattern>
     <clipPath id="stack"><path d="m748 125 397-6 9 182-408 4Z"/></clipPath>
@@ -13,15 +13,15 @@
     <path d="m748 125 397-6 9 182-408 4Z" fill="#ffcc00"/>
     <path d="M950 115H1160V310H1100Z" fill="url(#dots)" opacity=".2" clip-path="url(#stack)" stroke="none"/>
     <path d="m1050 39 20 10-20 10m-23-20-20 10 20 10" fill="none" stroke-width="4"/>
-    <path d="m1074 268 40-5m-36 20 39 1" fill="none" stroke-width="4"/>
+    <path d="m1074 158 40-5m-36 20 39 1" fill="none" stroke-width="4"/>
   </g>
   <g font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', sans-serif" fill="#1a1a1a">
     <text x="65" y="64" font-size="35" font-weight="900">回首空城<tspan dx="28" font-size="25" font-weight="700">TECH OTAKU</tspan></text>
     <text x="65" y="176" font-size="30" font-weight="900">使用语言</text>
     <path d="M65 191H206" stroke="#ff3333" stroke-width="6"/>
-    <text x="65" y="259" font-size="35" font-weight="700">TypeScript · Java · Python · C++</text>
+    <text x="65" y="259" font-size="35" font-weight="700">TypeScript · C# · Python · C++</text>
     <text x="779" y="176" font-size="30" font-weight="900">技术栈</text>
     <path d="M779 191H886" stroke="#3366ff" stroke-width="6"/>
-    <text x="779" y="245" font-size="34" font-weight="700">React · Vite · Unity</text>
+    <text font-size="29" font-weight="700"><tspan x="779" y="235">React · Web · Agent</tspan><tspan x="779" y="279">Graphics · Unity · UE</tspan></text>
   </g>
 </svg>

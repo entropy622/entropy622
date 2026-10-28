@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="580" viewBox="0 0 1200 580" role="img" aria-labelledby="title">
+  <title id="title">已经没有什么能阻挡 Scaling Law 了。在这充满无限的变化和希望的时代，我预见人类的一切价值都将被重塑。作为飞速变化世界旁观者，让我们忘记 KPI，去拥抱这个时代吧。</title>
+  <defs>
+    <pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.6" fill="#1a1a1a"/></pattern>
+    <clipPath id="hero"><path d="M30 34 1158 22 1168 204 40 218Z"/></clipPath>
+  </defs>
+  <g stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round">
+    <path d="M40 44 1168 32 1178 214 50 228Z" fill="#1a1a1a"/>
+    <path d="M30 34 1158 22 1168 204 40 218Z" fill="#ffcc00"/>
+    <g clip-path="url(#hero)" stroke="none">
+      <path d="M24 22H340L24 220Z" fill="url(#dots)" opacity=".23"/>
+      <path d="M980 22H1180V220H1080Z" fill="url(#dots)" opacity=".23"/>
+    </g>
+    <path d="m49 73 61 19M48 116l43 1M55 164l53-20m1027-74-58 23m62 21-39 3m42 43-60-20" fill="none" stroke-width="4"/>
+    <path d="M44 256H1154V365H1012L976 393 978 365H44Z" fill="#1a1a1a"/>
+    <path d="M34 246H1144V355H1002L966 383 968 355H34Z" fill="#ffffff"/>
+    <path d="m44 416 1110-10 10 144-1114 8Z" fill="#1a1a1a"/>
+    <path d="m34 406 1110-10 10 144-1114 8Z" fill="#3366ff"/>
+    <path d="m61 486 55 7m-52 25 59-9m987-27-53 10m55 17-54-4" fill="none" stroke="#ffffff" stroke-width="4"/>
+  </g>
+  <g font-family="'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', sans-serif" fill="#1a1a1a" text-anchor="middle">
+    <text x="600" y="139" font-size="48" font-weight="900">已经没有什么能阻挡 <tspan font-size="58" font-weight="900">Scaling Law</tspan> 了。</text>
+    <text font-size="28" font-weight="600"><tspan x="590" y="288">在这充满无限的变化和希望的时代，</tspan><tspan x="590" y="330">我预见人类的一切价值都将被重塑。</tspan></text>
+    <text fill="#ffffff"><tspan x="590" y="445" font-size="27" font-weight="600">作为飞速变化世界旁观者，让我们忘记 KPI，</tspan><tspan x="590" y="511" font-size="48" font-weight="900">去拥抱这个时代吧。</tspan></text>
+  </g>
+</svg>
